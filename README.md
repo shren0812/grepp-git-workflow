@@ -15,4 +15,4 @@ I have just added new file!
 ```
 
 6. local repository의 모든 변경사항을 push한 후, pull request 기능을 이용해 제출하세요.
-   시룬데 내가왜?
+   죽어라 당근!
